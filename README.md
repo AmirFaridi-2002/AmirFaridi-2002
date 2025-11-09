@@ -60,7 +60,7 @@
 ---
 
 ### 🧪 What I Like Playing With
-- Type theory / proof assistants (Coq)
+- Type Theory / Proof Assistants -- Currently Learning Lean
 - Formal verification / semantics
 - Quantum-programming-adjacent ideas
 - Good Linux setups + Neovim configs
