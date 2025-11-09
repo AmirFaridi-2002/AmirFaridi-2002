@@ -7,10 +7,9 @@
 ---
 
 ### 💫 About Me
-- After exploring type and category theory, I'm self-studying formal methods, process algebra, and a bit of quantum computing.
+- After exploring Type Theory, Category Theory, and Coq (Rocq) Proof Assistant, I'm self-studying Formal Methods, Process Algebra, and Quantum Computing.
 - Passionate about the theoretical side of CS.
-- Like to code (most of the time 😅)
-- Also: binge-watching TV series is research-adjacent.
+- Like to code (most of the time!)
 
 ---
 
@@ -61,13 +60,7 @@
 
 ### 🧪 What I Like Playing With
 - Type Theory / Proof Assistants -- Currently Learning Lean
-- Formal verification / semantics
 - Quantum-programming-adjacent ideas
 - Good Linux setups + Neovim configs
 
 ---
-
-<!-- footer -->
-<p align="center">
-  <sub>Proudly generated and then hacked by myself 😎</sub>
-</p>
