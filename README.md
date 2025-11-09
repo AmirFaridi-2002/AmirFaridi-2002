@@ -1,5 +1,9 @@
 # 💫 About Me:
-Computer science student at the University of Tehran.<br>Currently learning about Type Theory, Coq Proof Assistant, and Category Theory.<br>Passionate about the theoretical aspects of computer science.
+Computer science student at the University of Tehran.
+<br>After exploring Type Theory, Category Theory, and Proof Assistants, now I'm self-studying Formal Methods, Process Algebra, and Quantum Computing.
+<br>Passionate about the theoretical aspects of computer science.
+<br>Like to code (?)
+<br>Love to binge-watch TV series!
 
 
 ## 🌐 Socials:
