@@ -76,8 +76,9 @@
 ---
 
 ### 🧪 What I Like Playing With
-- Type Theory / Proof Assistants -- Currently Learning Lean
-- Quantum-programming-adjacent ideas
+- Programming Languages / Proof Assistants
+- Quantum-PL-adjacent ideas
 - Good Linux setups + Neovim configs
-
+- Currently poking around with TypeScript and Rust
+  
 ---
