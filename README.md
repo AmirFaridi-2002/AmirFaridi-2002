@@ -21,20 +21,30 @@
 ### 📊 GitHub Stats
 
 <!-- row of 3 cards, same width -->
-
 <div align="center">
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amirfaridi-2002&theme=github_dark"
-       alt="Stats" height="185" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amirfaridi-2002&theme=github_dark"
-       alt="Top langs by repo" height="185" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amirfaridi-2002&theme=github_dark"
+    alt="Stats"
+    height="230"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amirfaridi-2002&theme=github_dark"
+    alt="Top langs by repo"
+    height="230"
+    style="margin-left: 12px;"
+  />
 
-  <br/>
+  <br/><br/>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amirfaridi-2002&theme=github_dark"
-       alt="Top langs by commits" height="185" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amirfaridi-2002&theme=github_dark"
+    alt="Top langs by commits"
+    height="230"
+  />
 
 </div>
+
 
 ---
 
