@@ -21,22 +21,16 @@
 ### 📊 GitHub Stats
 
 <!-- row of 3 cards, same width -->
-<section class="gh-stats">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amirfaridi-2002&theme=github_dark"
-       class="gh-card" alt="Stats" />
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amirfaridi-2002&theme=github_dark"
-       class="gh-card" alt="Top languages by repo" />
+## GitHub Stats
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amirfaridi-2002&theme=github_dark"
-       class="gh-card" alt="Top languages by commit" />
+| Stats | Top Languages |
+|---|---|
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amirfaridi-2002&theme=github_dark&hide_border=true) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amirfaridi-2002&theme=github_dark&hide_border=true) |
 
-  <img src="https://github.com/DenverCoder1/github-readme-streak-stats/raw/master/docs/demo.svg"
-       style="display:none" alt="" />
-       
-  <img src="https://streak-stats.demolab.com/?user=amirfaridi-2002&theme=dark&hide_border=true"
-       class="gh-card gh-card--wide" alt="Streak" />
-</section>
+![](https://streak-stats.demolab.com/?user=amirfaridi-2002&theme=dark&hide_border=true)
+
+
 
 ---
 
