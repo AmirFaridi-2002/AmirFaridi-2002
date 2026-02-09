@@ -22,9 +22,9 @@
 
 <!-- row of 3 cards, same width -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amirfaridi-2002&show_icons=true&theme=dark&hide_border=false&cache_seconds=86400" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirfaridi-2002&theme=dark&hide_border=false" alt="GitHub Streak" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirfaridi-2002&layout=compact&theme=dark&hide_border=false&cache_seconds=86400" height="150" />
+  ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amirfaridi-2002&theme=github_dark)
+  ![Top langs by repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amirfaridi-2002&theme=github_dark)
+  ![Top langs by commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amirfaridi-2002&theme=github_dark)
 </p>
 
 ---
