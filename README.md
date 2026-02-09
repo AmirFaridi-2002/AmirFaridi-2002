@@ -24,8 +24,8 @@
   ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amirfaridi-2002&theme=github_dark)
   ![Top langs by repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amirfaridi-2002&theme=github_dark)
   ![Top langs by commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amirfaridi-2002&theme=github_dark)
-
-
+  ![Streak](https://streak-stats.demolab.com/?user=amirfaridi-2002&theme=dark&hide_border=false)
+  
 ---
 
 ### 💻 Tech Stack
