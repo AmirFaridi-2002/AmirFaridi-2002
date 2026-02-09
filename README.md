@@ -22,15 +22,19 @@
 
 <!-- row of 3 cards, same width -->
 
-## GitHub Stats
+<div align="center">
 
-| Stats | Top Languages |
-|---|---|
-| ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amirfaridi-2002&theme=github_dark&hide_border=true) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amirfaridi-2002&theme=github_dark&hide_border=true) |
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amirfaridi-2002&theme=github_dark"
+       alt="Stats" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amirfaridi-2002&theme=github_dark"
+       alt="Top langs by repo" height="165" />
 
-![](https://streak-stats.demolab.com/?user=amirfaridi-2002&theme=dark&hide_border=true)
+  <br/>
 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amirfaridi-2002&theme=github_dark"
+       alt="Top langs by commits" height="165" />
 
+</div>
 
 ---
 
