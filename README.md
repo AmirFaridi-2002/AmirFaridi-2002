@@ -25,14 +25,14 @@
 <div align="center">
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amirfaridi-2002&theme=github_dark"
-       alt="Stats" height="165" />
+       alt="Stats" height="185" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amirfaridi-2002&theme=github_dark"
-       alt="Top langs by repo" height="165" />
+       alt="Top langs by repo" height="185" />
 
   <br/>
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amirfaridi-2002&theme=github_dark"
-       alt="Top langs by commits" height="165" />
+       alt="Top langs by commits" height="185" />
 
 </div>
 
