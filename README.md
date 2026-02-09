@@ -1,13 +1,12 @@
 <!-- Hero / Title -->
 <h1 align="center">Hey, I'm Amir 👋</h1>
 <p align="center">
-  Computer science student at the University of Tehran · into Type Theory, Category Theory, Proof Assistants, and Formal Methods.
+  Computer science student at the University of Tehran
 </p>
 
 ---
 
 ### 💫 About Me
-- After exploring Type Theory, Category Theory, and Coq (Rocq) Proof Assistant, I'm self-studying Formal Methods, Process Algebra, and Quantum Computing.
 - Passionate about the theoretical side of CS.
 - Like to code (most of the time!)
 
