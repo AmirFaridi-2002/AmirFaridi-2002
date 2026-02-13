@@ -26,13 +26,13 @@
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amirfaridi-2002&theme=github_dark"
     alt="Stats"
-    width="430"
+    width="380"
   />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amirfaridi-2002&theme=github_dark"
     alt="Top langs by repo"
-    width="430"
+    width="380"
   />
 
   <br/><br/>
@@ -40,7 +40,7 @@
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amirfaridi-2002&theme=github_dark"
     alt="Top langs by commits"
-    width="430"
+    width="380"
   />
 
 </div>
